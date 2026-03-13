@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nay Htoo Yan
 
-💻 **Full Stack Developer** | 🎓 **Web Development Instructor** | 🇲🇲 Myanmar
+💻 **Full Stack Developer** | 🎓 Web Development Instructor
 
 I love building web applications and helping people learn programming in a simple and practical way.
 Most of my work focuses on **teaching beginners how to build real projects with modern web technologies.**
