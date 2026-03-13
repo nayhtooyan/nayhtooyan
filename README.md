@@ -24,11 +24,16 @@ Most of my work focuses on **teaching beginners how to build real projects with 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/NayHtooYan)
 
 ---
-# 🧠 Most Used Languages
+# 🧠 Languages I Use The Most
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayhtooyan&layout=compact&theme=tokyonight&langs_count=8&hide=html,css"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayhtooyan&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" />
 </p>
+
+<p align="center">
+  <i>Based on the code written across my public repositories</i>
+</p>
+
 
 
 ⭐ **If you like my projects, feel free to star them and follow my GitHub!**
