@@ -54,15 +54,6 @@ Most of my work focuses on **teaching beginners how to build real projects with 
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=nayhtooyan\&theme=shadow_blue\&hide_border=false\&include_all_commits=true\&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=nayhtooyan\&theme=shadow_blue\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nayhtooyan\&theme=shadow_blue\&hide_border=false\&include_all_commits=true\&layout=compact)
-
----
 
 # 👀 Profile Visitors
 
